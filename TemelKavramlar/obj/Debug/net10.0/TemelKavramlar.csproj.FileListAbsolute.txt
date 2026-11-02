@@ -1,0 +1,14 @@
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\bin\Debug\net10.0\TemelKavramlar.exe
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\bin\Debug\net10.0\TemelKavramlar.deps.json
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\bin\Debug\net10.0\TemelKavramlar.runtimeconfig.json
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\bin\Debug\net10.0\TemelKavramlar.dll
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\bin\Debug\net10.0\TemelKavramlar.pdb
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.AssemblyInfoInputs.cache
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.AssemblyInfo.cs
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.csproj.CoreCompileInputs.cache
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.dll
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\refint\TemelKavramlar.dll
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.pdb
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\TemelKavramlar.genruntimeconfig.cache
+C:\Users\liosa\RiderProjects\TemelKavramlar\TemelKavramlar\obj\Debug\net10.0\ref\TemelKavramlar.dll
